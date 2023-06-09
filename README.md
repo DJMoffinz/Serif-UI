@@ -1,17 +1,4 @@
-# Some information about GritUI
+# Serif
+Serif is a UI library for the iOS app [Codea](https://codea.io). It builds on SoulWINTER's [GritUI](https://github.com/soulwinter/GritUI) project, but with an overhauled appearance, and geared towards game development.
 
-## What is GritUI?
-
-GritUI is designed for an iOS app called Codea, you can learn about it on [Codea Official Website](https://codea.io).
-
-To solve the problem that I can't create a button, a slider or a switch directly, I created GritUI. It includes a slider, a switch, a pop-up window and something else.
-
-You can just use them like this:
-```lua
-  addNewPopAlert("Hello!","Welcome!",true,5)
-```
-and you have finished.
-
-## Can I use it now?
-
-You can see how to use it in `wiki.md`.
+Serif won't be ready for use for a while, so in the meantime go show GritUI some love. SoulWINTER isn't maintaining it anymore, but I plan to add some language localization and a few QoL features to it, too.
